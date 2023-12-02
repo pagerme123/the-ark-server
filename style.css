@@ -1,0 +1,19 @@
+div.header {
+  text-shadow: 0px -5px 5px rgba(99, 1, 99, 0.815); /* Adjust color and shadow spread as needed */
+
+  font-style: italic;
+  font-variant: small-caps;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: xx-large;
+  text-align: center;
+}
+div.inviteLinkP {
+  text-shadow: 0px 0px 2px rgba(255, 0, 255, 0.815); /* Adjust color and shadow spread as needed */
+  font-family: "GenLight";
+  font-weight: normal;
+  font-style: normal;
+  font-size: x-large;
+}
+body {
+  background-color: rgb(10, 0, 0);
+}
