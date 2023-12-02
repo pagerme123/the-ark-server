@@ -1,6 +1,6 @@
 div.header {
-  text-shadow: 0px -5px 5px rgba(99, 1, 99, 0.815); /* Adjust color and shadow spread as needed */
-
+  text-shadow: 0px -5px 5px rgb(255, 166, 0);
+  color: white;
   font-style: italic;
   font-variant: small-caps;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -8,12 +8,30 @@ div.header {
   text-align: center;
 }
 div.inviteLinkP {
-  text-shadow: 0px 0px 2px rgba(255, 0, 255, 0.815); /* Adjust color and shadow spread as needed */
+  color: rgb(0, 140, 255);
+  text-shadow: 3px 3px 1px rgb(0, 0, 0);
   font-family: "GenLight";
   font-weight: normal;
   font-style: normal;
   font-size: x-large;
+  left: auto;
+  padding-left: 30px;
+}
+div.gearUp {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  font-size: larger;
+  color: whitesmoke;
+  text-shadow: 6px 5px 4px orange;
+}
+div.join {
+  padding-top: 20px;
+  padding-left: 100px;
+  font-size: 300px;
+}
+div.serverdino {
+  border-radius: 50px;
 }
 body {
-  background-color: rgb(10, 0, 0);
+  background-color: rgb(17, 2, 41);
 }
